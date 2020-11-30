@@ -16,7 +16,7 @@ export default [
   {
     name: '/education',
     files: [
-      'golde-gate-bridge.jpg',
+      'golden-gate-bridge.jpg',
       'sjsu-logo.png',
       'hack-reactor-logo.svg',
     ],
