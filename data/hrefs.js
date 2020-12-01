@@ -45,6 +45,7 @@ export default [
       'bitcoin-price-index-image.png',
       'covid19-twilio-sms-image.png',
       'travelsite-reviews-image.png',
+      'lighthouse-logo.svg',
     ],
   },
   {
