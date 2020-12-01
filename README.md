@@ -38,6 +38,13 @@
         npm run dev
 ```
 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&#8226; ___./.next/_ directory is now added.
+
+```text
+                    .
+                    └── .next/
+```
+
 #### &ensp;&ensp;&ensp;&ensp;1.3. Now visit _[http://localhost:3000/](http://localhost:3000/)_ to see the React application
 
 ### 2. Production Mode
