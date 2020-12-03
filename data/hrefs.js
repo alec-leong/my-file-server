@@ -19,14 +19,22 @@ export default [
       'golden-gate-bridge.jpg',
       'sjsu-logo.png',
       'hack-reactor-logo.svg',
+      'golden-gate-bridge-100.webp',
     ],
   },
   {
     name: '/images',
     files: [
-      'logo.ico',
-      'logo.jpg',
+      'logo-v1.ico',
+      'logo-v1.jpg',
+      'logo-v2.ico',
+      'logo-v2.jpg',
+      'logo-v2-100.webp',
+      'logo-v3.ico',
+      'logo-v3.jpg',
+      'logo-v3-100.webp',
       'profile-picture.png',
+      'profile-picture-100.webp',
     ],
   },
   {
@@ -34,6 +42,8 @@ export default [
     files: [
       'nucleus.png',
       'snow-flake.png',
+      'nucleus-100.webp',
+      'snow-flake-100.webp',
     ],
   },
   {
@@ -61,6 +71,9 @@ export default [
       'ellie-and-eva-logo.png',
       'klarity-logo.png',
       'razu-logo.svg',
+      'amc-logo-100.webp',
+      'ellie-and-eva-logo-100.webp',
+      'klarity-logo-100.webp',
     ],
   },
 ];
